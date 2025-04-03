@@ -14,8 +14,10 @@ because in my opinion, the picture alone is just boring 5D rgb vector space wher
 but it become much more interesting when using it in interesting context e.g. songs, comic, mathematical visualization,
 UXUI etc.
 
-Anyone can create any artworks, fanart and fan soundtrack in this repository as long as your content is appropriate and
-not violate copyright laws (AI generated content is allowed), by
+Anyone can create any original artworks, fanart (only about this repository to avoid copyright concern and be unique,
+indirect reference e.g. fictional setting, inspiration, character with Song's name etc are allowed) 
+and fan soundtrack in this repository as long as your content is appropriate and not violate copyright laws 
+(AI generated content is allowed), by
 1.  Git fork this repository
 2.  Create sub directory with your unique name (my nick name is `cheche/`)
 3.  Create the artworks and/or md file fictional plot in your directory
@@ -28,6 +30,9 @@ Read this to learn more about how to use Git.
 -   https://youtu.be/hwP7WQkmECE?si=3dpwnxaAztigW7x-
 -   https://colab.research.google.com/drive/1ERz9tNhId3gBNsxGpvRWnqfY6x0LJFs-?usp=sharing
 -   https://youtu.be/tRZGeaHPoaw?si=qNfziX2r9p-XARow
+
+Note that if we use your artwork, soundtract, UXUI design and/or other from of intellectual content, as AI art training data, 
+UXUI and/or in Tutorial, we will credit your contribution.
 
 # What is `open_close_rider` ?
 
