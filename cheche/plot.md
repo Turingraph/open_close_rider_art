@@ -33,6 +33,7 @@ writing software both successfully and not successfully with HipHop vibe.
 -   Rock spirit (e.g. The Beatle, Nirvana, Weezer, The Strokes, Tally Hall etc)
 -   Japanese Rock spirit (e.g. Zutomayo, Yonezu Kenshi, Bocchi the Rock etc)
 -   HipHop spirit (e.g. Nujabes, A Tribe Called Quest, The Notorious B.I.G., Daft Punk etc)
+-   HipHop spirit should be main inspiration and Rock, Japanese Rock and Shonen spirits should be minor inspiration, because the focus is all about text.
 2.  Shonen Energetic Spirit (focus on Energetic and Rebelious Part)
 -   e.g. Sakamoto Day, Scott Pilgrim Take Off, Gintama, Cell at Work, Jojo Diamond is Unbreakable, Kamen Rider etc.
 3.  Commercial Branding 
