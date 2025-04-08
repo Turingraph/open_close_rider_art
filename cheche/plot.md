@@ -252,7 +252,7 @@ What it not feel
     make messy and organized text feel differ dramatically ?
 3.  Should city be 2D or 3D ?
 
-## Other related future project idea
+## Other related future project ideas
 
 ### Islamic Linear Algebra
 
@@ -292,7 +292,7 @@ The future version might support user customized Grapheme–Color Synesthesia ex
 
 Help user create readable write text incorrectly intentionally.
 
-### Graffiti Synesthesia CSS
+### Graffiti CSS
 
 CSS related library for generating text based on my Grapheme–Color Synesthesia experience and can be used in React Typescript project.
 
@@ -306,5 +306,11 @@ The future version might support user customized Grapheme–Color Synesthesia ex
 2.  OCR, Pandas, Numpy, React etc Tutorial
 3.  Game for learning new language.
 4.  Urban Planning and/or Adventure Game
-5.  Original HipHop Music Video
+5.  Original Animated HipHop Music Video
 6.  React coding template with reusable UI and user tutorial.
+
+### Other Narrative
+
+The narrative for Islamic Linear Algebra, Graffiti Algebra, and other related future projects might be similar to
+Flat land where the characters figure out what higher dimensional world looks like, inspired by the history of science,
+history of mathematics and synesthesia related story e.g. Born on a Blue Day (by Daniel Tammet) etc.
