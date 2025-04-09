@@ -204,7 +204,7 @@ Watch this to learn more what is Synesthesia
 11. Too weird world building as Codex Seraphinianus.
 12. Minecraft 3D cube art style.
 13. Asia Traditional Art (except Islamic Art)
-14. Religious Art. I'm an atheist, but I deeply admire Islamic art because I love Islamic detailed pattern
+14. Religious Art and spiritual art. I'm an atheist, but I deeply admire Islamic art because I love Islamic detailed pattern
     , I wish to feel what higher dimensional geometry looks like and I like to combine free spirit of art with detailed symmetrical pattern.
 
 # Executable Plan
@@ -222,20 +222,20 @@ Watch this to learn more what is Synesthesia
 -   Use synesthesia in organized text.
 -   Show interesting linear algebra related pattern in organized text explicitely and in messy text implicitly.
 -   There should be clear visible distinction between messy and organized text.
-4.  Mixing text with city (should city be 2D or 3D ?)
+3.  Mixing text with city (should city be 2D or 3D ?)
 -   text Street Art
 -   Town with the shape of text
 -   Large text pop out of nowhere similar to some anime scene e.g. Kill la Kill, Scott Pilgrim Take Off, Dandadan, Spiderman into the Spiderverse etc.
 -   Design Post Office building
-5.  Open CV algorithm visualization drawing
+4.  Open CV algorithm visualization drawing
 -   Pixel Art
 -   Otsu, Adaptive Threshold, Canny etc
-6.  Post Officer and supportive Characters design
-7.  Mix everythings from the `components` section, such that the vibe align with `Emotion` section and show the important of Open Close Principle. 
+5.  Post Officer and supportive Characters design
+6.  Mix everythings from the `components` section, such that the vibe align with `Emotion` section and show the important of Open Close Principle. 
 -   4 Officer Characters, other minor characters (e.g. VSCode teams, AWS teams, GitHub users team, OCR users etc)
 -   text (with OCR box around text), messy text, organized text, 2D linear algebra visualization, 3D architecture perspective, 
     HipHop 
-8.  Apply this artistic design with OCR tutorial, UXUI and short introduction storyboard.
+7.  Apply this artistic design with OCR tutorial, UXUI and short introduction storyboard.
 
 ## Things to mix, but no idea how to mix with text components ?
 
@@ -260,8 +260,10 @@ Watch this to learn more what is Synesthesia
 
 ### Arabesque of AL-Khwarizmi
 
-Applying the dimensional Reduction algorithm, 2D cross section and 2D linear subspace projection for visualizing 2D version of 
-the 3D or 4D linear transformed's grid in order to able to generating interesting geometric pattern for artistic purpose.
+It is Numpy and Matplotlib based library that allow user to applying the dimensional Reduction algorithm, 
+2D cross section and 2D linear subspace projection for visualizing 2D version of 
+the 3D or 4D linear transformed's hypercube and other type space filling Polytopes in order to able to generating interesting 
+geometric pattern for artistic purpose.
 Inspired by 3B1B's Linear Algebra series and Islamic Art. It might be used for this project directly.
 
 ### Graffiti Synesthesia Simulation
