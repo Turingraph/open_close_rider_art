@@ -204,6 +204,8 @@ Watch this to learn more what is Synesthesia
 11. Too weird world building as Codex Seraphinianus.
 12. Minecraft 3D cube art style.
 13. Asia Traditional Art (except Islamic Art)
+14. Religious Art. I'm an atheist, but I deeply admire Islamic art because I love Islamic detailed pattern
+    , I wish to feel what higher dimensional geometry looks like and I like to combine free spirit of art with detailed symmetrical pattern.
 
 # Executable Plan
 
