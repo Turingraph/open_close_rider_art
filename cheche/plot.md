@@ -12,7 +12,7 @@ writing software both successfully and not successfully with HipHop vibe.
 
 # Components
 
-## Concrete Keyword (Main components)
+## Keyword (Main components)
 
 1.  Open Close Principle
 2.  OCR (box around the text)
@@ -20,12 +20,12 @@ writing software both successfully and not successfully with HipHop vibe.
 4.  Synesthesia
 5.  Image processing algorithm visualization
 6.  Pixel Art
-7.  3B1B's Linear Algebra series
-8.  Mirage
-9.  HipHop
-10. Graffiti Art, Text Street Art
-11. Post Office
-12. Internet 2000
+7.  3B1B's Linear Algebra series (https://www.3blue1brown.com/topics/linear-algebra)
+8.  HipHop
+9.  Graffiti Art, Text Street Art
+10. Post Office
+11. Internet 2000
+12. Islamic Art
 
 ## Inspiration (Supportive components)
 
@@ -177,18 +177,21 @@ Watch this to learn more what is Synesthesia
 
 ## Emotion
 
-What it feel
-1.  the messy text is Organized but Messy at the same time
-2.  Nostalgia as 2000 video game and Pixel Art
-3.  Fun, bold and rebellious as HipHop
-4.  Refresh and energetic as Walking outdoor
-5.  Cowboy vibe but without horse
-6.  Some Urban green space, but no forest, mountain and sea.
+### What it feel
 
-What it not feel
+1.  the messy text is Organized but Messy at the same time
+2.  the organized text organized but not minimalistic, beautiful as Islamic art.
+3.  Nostalgia as 2000 video game and Pixel Art
+4.  Fun, bold and rebellious as HipHop and Graffiti Art.
+5.  Refresh and energetic as Walking outdoor
+6.  Cowboy vibe but without horse
+7.  Some Urban green space, but no forest, mountain and sea.
+
+### What it not feel
+
 1.  Sad, Depress as Radiohead and Tuyu
 2.  Romance
-3.  Weird and Mystery as Dandadan, SCP, detective story and some aspect of Jojo. No Ghost, Alien and SCP liked entity.
+3.  Weird and Mystery as Dandadan, SCP, detective story and some aspect of Jojo. Ghost, Alien and SCP liked entity.
 4.  Weird "Minimalistic" Nostalgia vibe as Backroom and Liminal Space
 5.  Power of Friendship (it too cringe)
 6.  Seriousness of Dystopia, political and social issue as 1984, the Matrix etc.
@@ -199,9 +202,8 @@ What it not feel
     My Hero Academia, One Punch Man etc) but the OCR Post Office Rider (which inspired by Kamen Rider) more 
     similar to white blood cells from Cell at Work than Kamen Rider.
 11. Too weird world building as Codex Seraphinianus.
-12. A lots of Bezier curve similar to Celtic knot and Thai art
-13. Minecraft 3D cube art style.
-14. Asia Traditional Art
+12. Minecraft 3D cube art style.
+13. Asia Traditional Art (except Islamic Art)
 
 # Executable Plan
 
@@ -254,13 +256,13 @@ What it not feel
 
 ## Other related future project ideas
 
-### Islamic Linear Algebra
+### Arabesque of AL-Khwarizmi
 
 Applying the dimensional Reduction algorithm, 2D cross section and 2D linear subspace projection for visualizing 2D version of 
 the 3D or 4D linear transformed's grid in order to able to generating interesting geometric pattern for artistic purpose.
-Inspired by 3B1B's linear algebra series and Islamic Art.
+Inspired by 3B1B's Linear Algebra series and Islamic Art. It might be used for this project directly.
 
-### Grapheme–Color Synesthesia Simulation
+### Graffiti Synesthesia Simulation
 
 Simulating the color of the user's input word base on my synesthesia experience using Heuristic (rule based) and/or supervise ML algorithm.
 
@@ -288,9 +290,9 @@ Apply AI Art model for creating colorful artistic Graffiti artwork based on my G
 
 The future version might support user customized Grapheme–Color Synesthesia experience.
 
-### Typoglycemia Simulation
+### Typoglycemia Text Generator
 
-Help user create readable write text incorrectly intentionally.
+Help user create readable written text incorrectly intentionally.
 
 ### Graffiti CSS
 
