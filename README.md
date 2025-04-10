@@ -44,5 +44,5 @@ Read this to learn more about how to use Git.
 Note that if we use your artwork, soundtract, UXUI design and/or other from of intellectual content, as AI art training data, 
 UXUI, implicit inspiration and/or in Tutorial, we will credit your contribution explicitly.
 
-You can also contribute submit OCR related story and artwork in `open_close_rider_art` and/or contribute
+You can also contribute submit story and artwork in `uxui_concept_art` and/or contribute
 our other repositories. Thank you for your contribution.
