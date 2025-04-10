@@ -8,7 +8,9 @@ What post officer team do ?
 3.  Deliver text in organized Excel city
 
 The theme of this story is all about OCR, Open Close Principle, typoglycemia and Synesthesia, and my personal experience with 
-writing software both successfully and not successfully with HipHop vibe.
+writing software both successfully and not successfully with HipHop vibe. 
+
+This story is intended to be the part of UXUI and user tutorial of `open_close_rider` (OCR Python library, https://github.com/Turingraph/open_close_rider) directly.
 
 # Components
 
@@ -58,10 +60,10 @@ Messy Text originated in Messy Text city and the Post Officer capture the photo 
 What Messy Text looks like ?
 1.  Characters in wrong order (typoglycemia)
 2.  Characters might have differ size
-3.  Feel more messy, but feel organized at the same time. Have implicite pattern.
-4.  Rebelious HipHop
+3.  Feel more messy, but feel organized at the same time. Have implicit pattern.
+4.  Rebelious HipHop vibe
 5.  Symbolized unprocess text.
-6.  Have color but harder to read because it's color is similar (but don't too similar) 
+6.  Have color but might be harder to read because it's color is similar (but don't too similar for the audience) 
     to background e.g. plant, rock, building etc as if they can camouflage with surrounding Urban environment.
 
 ### Organized Text
@@ -72,7 +74,7 @@ What Organized Text looks like ?
 1.  Characters in correct order
 2.  Characters with same size
 3.  Have explicite organized pattern e.g. 2D square Matrix, Inverse Matrix, Eigan Vector, Color based Determinant, Null Space etc.
-4.  Organized but not minimalistic, beautiful as Islamic art.
+4.  Organized but not minimalistic, beautiful as Islamic art and mathematical art.
 5.  Symbolized processed text.
 6.  Have color based on my synesthesia experience (e.g. A is red, B is Blue, C is yellow, D is Orange yellow etc.)
 
@@ -130,6 +132,7 @@ Note that
     Graffiti is red purple due to the combination of G (purple) and a (red),
     weirdly that Green feel "purple" but also feel "green" due to semantic meaning and existence of ee similar to DC's Joker etc.
 7.  I never feel the green number.
+8.  All Thai numbers (๐, ๑, ๒, ๓, ๔, ๕, ๖, ๗, ๘ and ๙) have the same color as the Hindu Arabic numbers counterpart.
 
 Watch this to learn more what is Synesthesia
 1.  https://youtu.be/3bQUiQj8k6c?si=jgnv_FO0NoYm9dyk
@@ -141,11 +144,11 @@ Watch this to learn more what is Synesthesia
 
 ## Character (main components)
 
-1.  Takeshi Tesseract
+1.  Tesseract Takeshi
 -   gender: male
 -   music : guitar
 -   tech  : Tesseract OCR
--   note  : Might look similar (but not identical) to Kenshi Yonezu.
+-   note  : Might look similar (but not identical) to Yonezu Kenshi.
 -   color : Orange Yellow (due to T,a and e)
 2.  Oscar C. V.
 -   gender: male
@@ -212,9 +215,7 @@ Watch this to learn more what is Synesthesia
 ## To Do List
 
 1.  3B1B's 2D Linear Algebra visualization based art pattern as the basis of text
--   Inverse Matrix, Null Space, fundamental theorem of subspace, SVD, Eigan Vector, null rank theorem etc. 
-    but only focus on 2D vector space.
--   Use 2 matrixes per one image, because 2D Hexagon looks like 3D cube.
+-   Developing `arabesque_of_alkhwarizmi` (https://github.com/Turingraph/arabesque_of_alkhwarizmi)
 2.  Design Messy and/or Organized Text.
 -   Messy and Organized text should have the same complexity but organized text should feel much more organized.
 -   Try to make Messy Text feel both organized and messy at the same time.
@@ -256,67 +257,17 @@ Watch this to learn more what is Synesthesia
     make messy and organized text feel differ dramatically ?
 3.  Should city be 2D or 3D ?
 
-## Other related future project ideas
+## Other related project idea
 
-### Arabesque of AL-Khwarizmi
-
-It is Numpy and Matplotlib based library that allow user to applying the dimensional Reduction algorithm, 
-2D cross section and 2D linear subspace projection for visualizing 2D version of 
-the 3D or 4D linear transformed's hypercube and other type space filling Polytopes in order to able to generating interesting 
-geometric pattern for artistic purpose.
-Inspired by 3B1B's Linear Algebra series and Islamic Art. It might be used for this project directly.
-
-### Graffiti Synesthesia Simulation
-
-Simulating the color of the user's input word base on my synesthesia experience using Heuristic (rule based) and/or supervise ML algorithm.
-
-The future version might support user customized Grapheme–Color Synesthesia experience.
-
-### Graffiti Algebra
-
-Method
-1.  making the 3D or 4d version of Latin alphabet, cube and sphere (with 1D, 2D or 3D surface) then visualize the 2d version of that alphabet via 
--   dimensional Reduction algorithm
--   2D cross section
--   2D linear subspace projection
-2.  assign the "suitable" color of that new 2D alphabet image based on my color-text synesthesia experience.
-
-Related mathematical sub-discipline
-1.  Numerical Linear Algebra for faster rendering
-2.  Lie Algebra for faster 3D or 4D text rotation rendering (and double rotation in 4D space)
-3.  Topology for analyzing the connectedness of the surface of the 3D or 4D manifold.
-
-The future version might support user customized Grapheme–Color Synesthesia experience.
-
-### Graffiti Journey
-
-Apply AI Art model for creating colorful artistic Graffiti artwork based on my Grapheme–Color Synesthesia experience.
-
-The future version might support user customized Grapheme–Color Synesthesia experience.
-
-### Typoglycemia Text Generator
-
-Help user create readable written text incorrectly intentionally.
-
-### Graffiti CSS
-
-CSS related library for generating text based on my Grapheme–Color Synesthesia experience and can be used in React Typescript project.
-
-It also have Typoglycemia feature that help user create readable write text incorrectly intentionally.
-
-The future version might support user customized Grapheme–Color Synesthesia experience.
-
-### Other project
-
-1.  Advertisement
-2.  OCR, Pandas, Numpy, React etc Tutorial
-3.  Game for learning new language.
-4.  Urban Planning and/or Adventure Game
-5.  Original Animated HipHop Music Video
-6.  React coding template with reusable UI and user tutorial.
-
-### Other Narrative
-
-The narrative for Islamic Linear Algebra, Graffiti Algebra, and other related future projects might be similar to
-Flat land where the characters figure out what higher dimensional world looks like, inspired by the history of science,
-history of mathematics and synesthesia related story e.g. Born on a Blue Day (by Daniel Tammet) etc.
+1.  `arabesque_of_alkhwarizmi`
+-   URL : https://github.com/Turingraph/arabesque_of_alkhwarizmi
+-   Purpose : Numpy-Manim based Python library for visualizing linear transformed grid, triangle and square in 2D and 3D Euclidean space and 2D representation of 3D Euclidean space via PCA and hyperplane cross section, for teaching basic concept in Linear Algebra and as the basis for higher dimensional geometry visualization tool. Inspired by 3B1B's Linear Algebra series and Islamic Art.
+2.  `graffiti_gallery`
+-   URL : I don't create it yet.
+-   Purpose : Graffiti art designing tool box based on user customized Grapheme–Color Synesthesia experience. User can also apply `arabesque_of_alkhwarizmi` for placing text in an interesting pattern.
+3.  Advertisement
+4.  OCR, Pandas, Numpy, React etc Tutorial
+5.  Game for learning new language.
+6.  Urban Planning and/or Adventure Game
+7.  Original Animated HipHop Music Video
+8.  React coding template with reusable UI and user tutorial.
