@@ -1,14 +1,15 @@
 # Description
 
 The purpose of this repository is to contains concept art for our future open source project related tutorial 
-, UI decoration and for entertainment purpose (many people already do comic, manga, animation and song based 
+, UI decoration, advertisement, sell art related products and for entertainment purpose. 
+Many people already do comic, manga, animation and song based 
 story telling so it is interesting to try doing UXUI and software documentation based story telling that 
-balance practical usefulness and story telling).
+balance practical usefulness and story telling.
 
 This repository only contains `.md` files, soundtrack, artworks and any other from of artworks.
 
 Anyone can also use my artwork as AI Art dataset as long as you don't make NFWS or inappropriate content
-because in my opinion, the picture alone is just boring 5D rgb vector space where there is nothing new to create,
+because in my opinion, the picture alone is just boring 5D rgbxy Euclidean space where there is nothing new to create,
 but it become much more interesting when using it in interesting context e.g. songs, comic, mathematical visualization,
 UXUI etc.
 
@@ -44,5 +45,5 @@ Read this to learn more about how to use Git.
 Note that if we use your artwork, soundtract, UXUI design and/or other from of intellectual content, as AI art training data, 
 UXUI, implicit inspiration and/or in Tutorial, we will credit your contribution explicitly.
 
-You can also contribute submit story and artwork in `uxui_concept_art` and/or contribute
+You can also contribute submit story and artwork in `the_uxui_with_a_thousand_faces` and/or contribute
 our other repositories. Thank you for your contribution.
