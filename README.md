@@ -42,8 +42,10 @@ Read this to learn more about how to use Git.
 -   https://colab.research.google.com/drive/1ERz9tNhId3gBNsxGpvRWnqfY6x0LJFs-?usp=sharing
 -   https://youtu.be/tRZGeaHPoaw?si=qNfziX2r9p-XARow
 
-Note that if we use your artwork, soundtract, UXUI design and/or other from of intellectual content, as AI art training data, 
+Note that if 
+1.  we use your artwork, soundtract, UXUI design and/or other from of intellectual content, as AI art training data, 
 UXUI, implicit inspiration and/or in Tutorial, we will credit your contribution explicitly.
+2.  This repository (`the_uxui_with_a_thousand_faces`) also contains major spoiler of our content, except `README.md`. 
 
-You can also contribute submit story and artwork in `the_uxui_with_a_thousand_faces` and/or contribute
+You can also submit story, soundtrack and/or artwork in `the_uxui_with_a_thousand_faces` and/or contribute
 our other repositories. Thank you for your contribution.
