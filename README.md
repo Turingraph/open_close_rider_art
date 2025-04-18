@@ -30,8 +30,8 @@ The content can be about anythings (that appropriate and not violate copyright l
     2.  `open_close_rider_app`
     -   URL : https://github.com/Turingraph/open_close_rider_app
     -   Purpose : Electron-React based user friendly OCR Desktop app that based on `open_close_rider`.
-    3.  `open_close_rider_lib_tutorial`
-    -   URL : https://github.com/Turingraph/open_close_rider_lib_tutorial.git
+    3.  `open_close_rider_tutorial`
+    -   URL : https://github.com/Turingraph/open_close_rider_tutorial
     -   Purpose : Teach user how to use our library in Python.
 2.  `arabesque_of_alkhwarizmi`
 -   URL : https://github.com/Turingraph/arabesque_of_alkhwarizmi

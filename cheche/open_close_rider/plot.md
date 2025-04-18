@@ -263,7 +263,7 @@ Watch this to learn more what is Synesthesia
 -   URL : https://github.com/Turingraph/arabesque_of_alkhwarizmi
 -   Purpose : Numpy-Manim based Python library that is used for visualizing 2D and 3D representation of linear transformed 2D and 3D user defined geometric object e.g. vector (point), line, user defined polytope etc with user defined matrix. This library also serve as linear algebra calculator that compute the properties of vector and matrix e.g. length of vector, Eigan Vector, Value and Determinant of matrix etc and solve linear equation and map with the visualization. This project is intended for visualizing the 2D and 3D representation of higher dimensional geometry in the future after finishing MVP via dimensional reduction algorithm e.g. singular matrix, 2D cross section, PCA, t-SNE etc.
 2.  `graffiti_gallery`
--   URL : I don't create it yet.
+-   URL : None (It is not created yet. Might be created in future)
 -   Purpose : Graffiti art designing tool box based on user customized Grapheme–Color Synesthesia experience. User can also apply `arabesque_of_alkhwarizmi` for placing text in an interesting pattern.
 3.  Advertisement
 4.  OCR, Pandas, Numpy, React etc Tutorial
